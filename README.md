@@ -35,7 +35,7 @@ Prosty program konsolowy (CLI) do zarządzania sklepem napisany w Pythonie.
     ```
 3. Odpal program:
     ```
-    python aplikacja_sklepowa.py
+    python boss.py
     ```
     *(Upewnij się, że masz zainstalowanego Pythona 3)*
 
